@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Satinder Kaur
-- 👀 I’m interested in data analysis and machine learning.
+- 👀 I’m interested in data analysis and data visualization.
 - 🌱 I’m currently learning advanced techniques in data visualization and deep learning.
 - 💞️ I’m looking to collaborate on projects related to data Analyst, open-source initiatives, or innovative web applications.
 - 📫 How to reach me https://www.linkedin.com/in/satinder-kaur-81407119a/
